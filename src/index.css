@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-bgBlack text-gray-200 overflow-x-hidden m-0 p-0 font-sans;
+  }
+}
+
+.glass-panel {
+  @apply bg-darkGreenAlt/30 backdrop-blur-lg border border-neonGreen/20 shadow-lg rounded-2xl;
+}
+
+.neon-text {
+  @apply text-neonGreen drop-shadow-[0_0_8px_rgba(34,197,94,0.8)];
+}
+
+.neon-border {
+  @apply border border-neonGreen shadow-[0_0_10px_rgba(34,197,94,0.5)];
+}
+
+.neon-border-focus:focus-within {
+  @apply border-neonGreen shadow-[0_0_15px_rgba(34,197,94,0.8)];
+}
