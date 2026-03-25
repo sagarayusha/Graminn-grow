@@ -52,6 +52,11 @@ Graminn Grow acts as a **Digital Agronomist** in the farmer's pocket:
   * **AWS / Google Cloud:** Scalable cloud hosting and AI model deployment.
 
     <img width="949" height="419" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/59dc60e8-78de-4d93-b76c-92e82ad7d906" />
+<img width="294" height="644" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/429ce14d-0584-4dd5-a27f-735d08bc5654" />
+![WhatsApp Image 2026-03-25 at 16 24 02](https://github.com/user-attachments/assets/3a7e57fe-cb51-4b18-a418-6399f5d4e9e9)
+![WhatsApp Image 2026-03-25 at 16 24 02 (2)](https://github.com/user-attachments/assets/69177271-2bf3-41b9-ad52-5c0a83f66931)
+![WhatsApp Image 2026-03-25 at 16 24 02 (1)](https://github.com/user-attachments/assets/5d7c23d9-aa61-4fbd-b225-f79d3a781a1a)
+![WhatsApp Image 2026-03-25 at 16 24 02 (3)](https://github.com/user-attachments/assets/dbaf2181-2a6a-4b1d-875d-51012885a64a)
 
 
 
