@@ -51,6 +51,10 @@ Graminn Grow acts as a **Digital Agronomist** in the farmer's pocket:
   * **Arduino / ESP32:** Hardware nodes for soil and weather monitoring.
   * **AWS / Google Cloud:** Scalable cloud hosting and AI model deployment.
 
+    <img width="949" height="419" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/59dc60e8-78de-4d93-b76c-92e82ad7d906" />
+
+
+
 -----
 
 🚀 Run
@@ -73,4 +77,3 @@ We welcome contributions from developers, data scientists, and agronomists\!
 
 -----
 
-**Would you like me to generate the directory structure for this repository or draft the specific "Terms of Service" for the marketplace section?**
